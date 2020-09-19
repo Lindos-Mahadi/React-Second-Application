@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/React-Second-ApplicationToDoList/static/css/main.b68398a2.chunk.css",
+    "main.js": "/React-Second-ApplicationToDoList/static/js/main.970bc64e.chunk.js",
+    "main.js.map": "/React-Second-ApplicationToDoList/static/js/main.970bc64e.chunk.js.map",
+    "runtime-main.js": "/React-Second-ApplicationToDoList/static/js/runtime-main.cd660d82.js",
+    "runtime-main.js.map": "/React-Second-ApplicationToDoList/static/js/runtime-main.cd660d82.js.map",
+    "static/css/2.ea6b7726.chunk.css": "/React-Second-ApplicationToDoList/static/css/2.ea6b7726.chunk.css",
+    "static/js/2.be41b104.chunk.js": "/React-Second-ApplicationToDoList/static/js/2.be41b104.chunk.js",
+    "static/js/2.be41b104.chunk.js.map": "/React-Second-ApplicationToDoList/static/js/2.be41b104.chunk.js.map",
+    "index.html": "/React-Second-ApplicationToDoList/index.html",
+    "precache-manifest.bcd80eefe4f4118b921702372794346b.js": "/React-Second-ApplicationToDoList/precache-manifest.bcd80eefe4f4118b921702372794346b.js",
+    "service-worker.js": "/React-Second-ApplicationToDoList/service-worker.js",
+    "static/css/2.ea6b7726.chunk.css.map": "/React-Second-ApplicationToDoList/static/css/2.ea6b7726.chunk.css.map",
+    "static/css/main.b68398a2.chunk.css.map": "/React-Second-ApplicationToDoList/static/css/main.b68398a2.chunk.css.map",
+    "static/js/2.be41b104.chunk.js.LICENSE.txt": "/React-Second-ApplicationToDoList/static/js/2.be41b104.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cd660d82.js",
+    "static/css/2.ea6b7726.chunk.css",
+    "static/js/2.be41b104.chunk.js",
+    "static/css/main.b68398a2.chunk.css",
+    "static/js/main.970bc64e.chunk.js"
+  ]
+}
