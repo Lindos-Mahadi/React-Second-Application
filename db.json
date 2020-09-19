@@ -1,0 +1,44 @@
+{
+  "users": [
+    {
+      "name": "Al-amin",
+      "username": "kuttaa",
+      "email": "kutta@gmail.com",
+      "phone": "000-003-033-333",
+      "website": "kuttaa.com",
+      "id": 1
+    },
+    {
+      "name": "Sharirar hassan",
+      "username": "s-wp-kutta",
+      "email": "kutta@gmail.com",
+      "phone": "4847-4875-6473",
+      "website": "s-wp.com",
+      "id": 2
+    },
+    {
+      "name": "Monir",
+      "username": "indian-kutta",
+      "email": "kutta@gmail.com",
+      "phone": "4875-2376-8965",
+      "website": "kutta.com",
+      "id": 3
+    },
+    {
+      "name": "lindos",
+      "username": "not kutta",
+      "email": "lindosmahadi@gmail.com",
+      "phone": "000-000-111-888",
+      "website": "nothing.com",
+      "id": 4
+    },
+    {
+      "name": "Julu",
+      "username": "lez chara kutta",
+      "email": "kutta@gmail.com",
+      "phone": "98937453947875",
+      "website": "julu.com",
+      "id": 5
+    }
+  ]
+}
